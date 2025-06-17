@@ -1,11 +1,11 @@
-# C language playground
+# C Programming Projects
 
-Practice in C lang.
+A collection of fundamental C programming projects focusing on systems programming, standard library implementation, and graphics.
 
 ## Projects
 
-1. [Libft](projects/libft/README.md) - own C library with implementation of basic standard library functions
-1. [ft_printf](projects/ft_printf/README.md) - replication of the library function `printf`
-1. [get_next_line](projects/get_next_line/README.md) - program to retrieve next line from the console
-1. [pipex](projects/pipex/README.md) - program that is similar to the pipe (`|`) command in bash
-1. [3d-graphic](projects/3d-graphic/README.md) - graphical program that visualize a map as 3D picture
+1. [Libft](projects/libft/README.md) - A custom C library implementing essential functions from the standard library, including string manipulation, memory management, and linked list utilities.
+1. [ft_printf](projects/ft_printf/README.md) - A recreation of the printf function supporting core format specifiers (%c, %s, %p, %d, %i, %u, %x, %X) with proper memory management.
+1. [get_next_line](projects/get_next_line/README.md) - A line-reading function that efficiently handles file I/O and memory management, supporting multiple file descriptors simultaneously.
+1. [pipex](projects/pipex/README.md) - A program that simulates shell pipes, executing command chains and redirecting input/output between processes using system calls.
+1. [3d-graphic](projects/3d-graphic/README.md) - A 3D wireframe rendering program that creates isometric and perspective projections of terrain maps with interactive controls for rotation, zoom, and color.
