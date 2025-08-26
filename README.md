@@ -9,3 +9,4 @@ A collection of fundamental C programming projects focusing on systems programmi
 1. [get_next_line](projects/get_next_line/README.md) - A line-reading function that efficiently handles file I/O and memory management, supporting multiple file descriptors simultaneously.
 1. [pipex](projects/pipex/README.md) - A program that simulates shell pipes, executing command chains and redirecting input/output between processes using system calls.
 1. [3d-graphic](projects/3d-graphic/README.md) - A 3D wireframe rendering program that creates isometric and perspective projections of terrain maps with interactive controls for rotation, zoom, and color.
+1. [sort_algorithm](projects/sort_algorithm/README.md) - A kind of stack-based sorting program. It sorts integer sequences using only stack operations (push, swap, rotate, reverse rotate), with efficient algorithms for both small and large input sets.
