@@ -4,6 +4,8 @@
 
 FdF (Fil de Fer, French for "Wireframe") is a 3D wireframe viewer written in C using the MiniLibX graphics library. The program visualizes terrain maps by rendering them as 3D wireframe models. Each point in the input map represents a height value, which is used to create a three-dimensional representation of the terrain.
 
+![3D Graphic demo](demo/3d-graphic-demo.gif)
+
 ## Features 🌟
 
 - **Multiple Projection Types:**
